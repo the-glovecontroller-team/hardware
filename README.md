@@ -10,7 +10,7 @@
 
 | Component | Qty |
 |---|---|
-| Arduino Uno | 1 |
+| Arduino | 1 |
 | SparkFun MPU-6050 - Accelerometer and Gyro | 1 |
 | HC - 05 Bluetooth Serial Module | 1 |
 | Mini Pushbutton Switch (Контакты перчатки) | 5 |
