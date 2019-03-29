@@ -2,6 +2,10 @@
 
 Тут железо
 
+# Схема
+
+![circuit](circuit.png)
+
 # Компоненты
 
 | Component | Qty |
