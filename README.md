@@ -1,4 +1,4 @@
-# schematics
+# Hardware
 
 Тут железо
 
