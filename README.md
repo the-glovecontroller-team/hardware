@@ -4,7 +4,11 @@
 
 # Схема
 
-![circuit](circuit.png)
+![circuit](circuit_nano.png)
+
+# Вариант для Arduino Uno
+
+![circuit](circuit_uno.png)
 
 # Компоненты
 
