@@ -1,21 +1,18 @@
 # Hardware
 
-Тут железо
+В этом репозитории вы найдете схемы, которые вам предстоит собрать в ходе курса.
 
-# Схема
+# Схема для перчатки управления
 
-![circuit](circuit_nano.png)
+![controller](controller.png)
 
-# Вариант для Arduino Uno
-
-![circuit](circuit_uno.png)
 
 # Компоненты
 
-| Component | Qty |
+| Компонент | Кол-во |
 |---|---|
-| Arduino | 1 |
-| SparkFun MPU-6050 - Accelerometer and Gyro | 1 |
-| HC - 05 Bluetooth Serial Module | 1 |
-| Mini Pushbutton Switch (Контакты перчатки) | 5 |
-| 10K Ohm Resistor | 5 |
+| Arduino Nano| 1 |
+| MPU-6050 - акселерометр и гироскоп | 1 |
+| Bluetooth модуль HC-05 | 1 |
+| Отсек для батареек типа CR2450 | 2 |
+| Батарейка CR2450 | 2 |
