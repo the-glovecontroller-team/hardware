@@ -4,7 +4,7 @@
 
 # Схема для перчатки управления
 
-![controller](controller.png)
+![controller](controller.jpg)
 
 
 # Компоненты
