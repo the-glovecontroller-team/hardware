@@ -4,7 +4,11 @@
 
 # Схема для перчатки управления
 
-![controller](controller.jpg)
+![controller](controller.png)
+
+# Схема для манипулятора
+
+![mearm](mearm.png)
 
 
 # Компоненты
