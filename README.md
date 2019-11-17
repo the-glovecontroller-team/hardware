@@ -8,7 +8,7 @@
 
 # Схема для перчатки управления
 
-![controller](controller.png)
+![controller](controller-bt.png)
 
 # Схема для манипулятора
 
